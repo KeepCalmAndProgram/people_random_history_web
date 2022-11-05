@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884298862139",
+    "project_id": "people-random-history-web",
+    "storage_bucket": "people-random-history-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884298862139:android:48889f2c857e5d1400961e",
+        "android_client_info": {
+          "package_name": "com.example.people_random_history"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884298862139-dtq1hp6q1pma3h9i3uj2ouav8hnm044o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT94B6AZR6NBvj8pQZ_Lzup4p4_gxE8QY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884298862139-dtq1hp6q1pma3h9i3uj2ouav8hnm044o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
